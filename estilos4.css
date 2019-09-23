@@ -104,5 +104,32 @@ hvr-grow {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
   }
+.Pru{
+    position:absolute;
+    left: 72%;
+    bottom: -45.5%;
+    color: #789bcf;
+}
+.Pru2{
+    position:absolute;
+    left: 62%;
+    bottom: -124.5%;
+}
 
+.Pru3{
+    position:absolute;
+    left: 56%;
+    bottom: -202.5%;
+}
+
+.Pru4{
+    position:absolute;
+    left: 64%;
+    bottom: -294.5%;
+}
+:not(Milista){
+    transform: none;
+    text-decoration: none;
+    
+}
 
