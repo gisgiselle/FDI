@@ -1,0 +1,117 @@
+
+    body {
+        font-size: 16px;
+        background-color:#e0dfdf;
+        
+    }
+
+.description{
+    margin-top: 8%;
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 200%;
+    margin-left: 5%;
+    margin-right: 50%;
+    
+}
+.home-menu {
+    padding: 0.7em;
+    text-align: left;
+    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
+    background-color: #2e6677;
+}
+}
+.home-menu ul {
+    float: right;
+}
+
+.pure-menu-item{
+    font-size: 140%;
+}
+
+.home-menu .pure-menu-heading {
+    color: white;
+    font-weight: 400;
+    font-size: 140%;
+}
+
+.home-menu .pure-menu-selected a {
+    color: white;
+}
+
+.home-menu a {
+    color: rgb(188, 226, 252);
+}
+.home-menu li a:hover,
+.home-menu li a:focus {
+    background: none;
+    border: none;
+   color: white;
+}
+
+.people{
+
+    display: flex; 
+    flex-direction: column;
+    margin-top: 10%;
+    margin-left: 5%;
+   
+}
+.text{
+    display: flex; 
+    flex-direction: column;
+    margin-left: 20%
+}
+.megaflex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+.pfp {
+    width: 250%;
+    margin-bottom: 40%;
+    border-radius: 300px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    box-shadow: 0 3px 3px rgba(0,0,0, 0.10);
+}
+
+.desc{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 6%;
+    font-family: 'Bree Serif', serif;
+    color: black;
+    font-size: 160%;
+    float:right;
+}
+
+hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+  }
+  .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+
+
+  .video01{
+      position: absolute;  
+      top: 50%;
+      left: 55%;
+  }
+
+
