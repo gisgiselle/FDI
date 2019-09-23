@@ -31,9 +31,8 @@
 }
 
 .home-menu .pure-menu-heading {
-    color: white;
-    font-weight: 400;
-    font-size: 140%;
+    font-weight: 400px;
+    font-size: 130%;
 }
 
 .home-menu .pure-menu-selected a {
@@ -115,3 +114,6 @@ hvr-grow {
   }
 
 
+#tumama{
+    color: white;
+}
